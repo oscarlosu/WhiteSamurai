@@ -1,0 +1,615 @@
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\map.xml
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\infoPanel.xnb
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eps\Desktop\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\map.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\infoPanel.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Samurai.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype2\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\map.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\infoPanel.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Samurai.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\map.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\infoPanel.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\map.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\infoPanel.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype3\Prototype2\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\map.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetBiColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Oscar\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\map.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetBiColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\map.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetBiColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\blackWhiteUroboros.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\blackWhiteUroboros.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetBiColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\blackWhiteUroboros.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetBiColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\blackWhiteUroboros.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\collidables.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\isoinfo.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapProperties.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTest.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\backBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\background.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\collidables.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\isoinfo.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapProperties.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTest.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetBiColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\blackWhiteUroboros.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\background.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Merged\prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\collidables.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\isoinfo.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapProperties.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTest.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\background.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\collidables.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\isoinfo.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapProperties.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTest.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\background.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\player.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTestCharacters.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\archer.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\boss.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\warrior.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\archer.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\boss.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\warrior.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\player.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\collidables.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\isoinfo.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapProperties.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTest.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTestCharacters.xml
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerStub.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetBiColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\LoadColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\blackWhiteUroboros.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheet.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackBlackWhite.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackColor.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\background.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\bin\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eps\Documents\Visual Studio 2010\Prototype\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\archer.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\boss.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\warrior.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Characters\XML\player.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTestCharacters.xml
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetEast.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetNorth.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetNorthEast.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetNorthWest.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetSouth.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetSouthEast.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetSouthWest.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\playerSpriteSheetWest.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Audio\soundtrack.xnb
+C:\Users\eps\Documents\Visual Studio 2010\Projects\Prototype\Prototype\Prototype\bin\x86\Debug\Content\Audio\soundtrack.wma
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerStub.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Widget\HealthBar.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Projectiles\arrowDrawn.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Projectiles\arrowRendered.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Projectiles\XML\projectile.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Controls\KeyBoardControls.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Controls\controllerControls.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\CreditsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\CreditsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\endANDgameOver.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\inGame.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\menu.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\endANDgameOver.wma
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\inGame.wma
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\menu.wma
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\WhiteSamurai.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\bin\x86\Debug\WhiteSamurai.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\obj\x86\Debug\WhiteSamurai.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\prototype\Prototype\Prototype\obj\x86\Debug\WhiteSamurai.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Characters\XML\archer.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Characters\XML\boss.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Characters\XML\warrior.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Characters\XML\player.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Projectiles\XML\projectile.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\collidables.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\isoinfo.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapProperties.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTest.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTestCharacters.xml
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerStub.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\blackWhiteUroboros.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\background.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Widget\HealthBar.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Projectiles\arrowRendered.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Projectiles\arrowDrawn.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouth.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouthEast.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouthWest.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Controls\controllerControls.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Controls\KeyBoardControls.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\CreditsBlackWhite.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\CreditsColor.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\endANDgameOver.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\inGame.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\menu.xnb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\endANDgameOver.wma
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\inGame.wma
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\menu.wma
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\WhiteSamurai.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\WhiteSamurai.pdb
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\obj\x86\Debug\WhiteSamurai.exe
+C:\Users\Javier\Documents\Visual Studio 2010\Projects\WhiteSamurai\Prototype\Prototype\obj\x86\Debug\WhiteSamurai.pdb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Characters\XML\archer.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Characters\XML\boss.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Characters\XML\warrior.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Characters\XML\player.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Projectiles\XML\projectile.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\collidables.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\isoinfo.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapProperties.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTest.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\TileEngine\XML\mapTestCharacters.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Misc\axis.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorth.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorthEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerNorthWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouth.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouthEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerSouthWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Player\playerStub.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameColor.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\NewGameBlackWhite.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsBlackWhite.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ControlsColor.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitBlackWhite.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ExitColor.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsBlackWhite.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\OptionsColor.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\tileSheet.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Map\objectSheet.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\degradado.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\blackWhiteUroboros.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\WhiteSamuraiLogo.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\samurai.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\MainMenuBackground.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayBlackWhite.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\PlayColor.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenBlackWhite.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\ScreenColor.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackBlackWhite.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\BackColor.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Backgrounds\background.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorth.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorthEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerNorthWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouth.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouthEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerSouthWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Archer\archerWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Widget\HealthBar.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Projectiles\arrowRendered.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Projectiles\arrowDrawn.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorth.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorthEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataNorthWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouth.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouthEast.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Sprites\Characters\Warrior\naginataSouthWest.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Controls\controllerControls.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Controls\KeyBoardControls.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\CreditsBlackWhite.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Images\Buttons\CreditsColor.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Fonts\Title.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\endANDgameOver.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\inGame.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\menu.xnb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\endANDgameOver.wma
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\inGame.wma
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Content\Audio\Songs\menu.wma
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\WhiteSamurai.exe
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\WhiteSamurai.pdb
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\obj\x86\Debug\WhiteSamurai.exe
+C:\Users\oscar\Desktop\WhiteSamurai\Prototype\Prototype\obj\x86\Debug\WhiteSamurai.pdb

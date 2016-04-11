@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype\Prototype.csproj", "{CCA8458C-1B3E-44BB-A6D6-D59A2D83B188}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PrototypeContent", "Prototype\PrototypeContent\PrototypeContent.contentproj", "{9E11A4A0-6C1C-4F80-A553-83E10DC063C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA8458C-1B3E-44BB-A6D6-D59A2D83B188}.Debug|x86.ActiveCfg = Debug|x86
+		{CCA8458C-1B3E-44BB-A6D6-D59A2D83B188}.Debug|x86.Build.0 = Debug|x86
+		{CCA8458C-1B3E-44BB-A6D6-D59A2D83B188}.Release|x86.ActiveCfg = Release|x86
+		{CCA8458C-1B3E-44BB-A6D6-D59A2D83B188}.Release|x86.Build.0 = Release|x86
+		{9E11A4A0-6C1C-4F80-A553-83E10DC063C5}.Debug|x86.ActiveCfg = Debug|x86
+		{9E11A4A0-6C1C-4F80-A553-83E10DC063C5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
